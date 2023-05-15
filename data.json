@@ -1,0 +1,513 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Acondicionador de Plátano",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_AcondicionadorPlatano_250ml_Haircare_360x.jpg?v=1670537833",
+      "price": 110.00,
+      "review": 5,
+      "category": "cabello"
+    },
+    {
+      "id": 2,
+      "title": "Shampoo de Plátano",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Shampoo_Platano_250_ml_360x.jpg?v=1679537810",
+      "price": 110.00,
+      "review": 4,
+      "category": "cabello"
+    },
+    {
+      "id": 3,
+      "title": "Mascarilla Nutritiva de Plátano",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_MascarillaCapilarPlatano_240ml_Haircare_360x.jpg?v=1670956529",
+      "price": 415.00,
+      "review": 4,
+      "category": "cabello"
+    },
+    {
+      "id": 4,
+      "title": "Sérum para el Cabello Semilla de Uva",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_SerumUva_75ml_Haircare_360x.jpg?v=1670957107",
+      "price": 245.00,
+      "review": 3,
+      "category": "cabello"
+    },
+    {
+      "id": 5,
+      "title": "Sérum para Cuero Cabelludo de Jengibre",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_SerumJengibre_50ml_Haircare_360x.jpg?v=1670957414",
+      "price": 445.00,
+      "review": 5,
+      "category": "cabello"
+    },
+    {
+      "id": 6,
+      "title": "Hair and Body Mist de Pimienta Rosa y Lichi",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Hair__Body_Mist_de_Pimienta_Rosa_y_Lichi_360x.jpg?v=1678992127",
+      "price": 355.00,
+      "review": 5,
+      "category": "cabello"
+    },
+    {
+      "id": 7,
+      "title": "Toalla para Cabello de Bambú",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Toalla_para_Cabello_de_Bambu_360x.jpg?v=1678826856",
+      "price": 155.00,
+      "review": 4,
+      "category": "cabello"
+    },
+    {
+      "id": 8,
+      "title": "Cepillo Ovalado de Bambú",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CepilloOvaladoBamboo_Accesorios_360x.jpg?v=1667261006",
+      "price": 265.00,
+      "review": 5,
+      "category": "cabello"  },
+  
+    {
+      "id": 9,
+      "title": "Exfoliante Corporal de Aguacate",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Exfoliante_Corporal_Aguacate_250ml_360x.jpg?v=1679962006",
+      "price": 165.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 10,
+      "title": "Exfoliante de British Rose",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_ExfolianteDeDuchaBritishRose_200ml_BathAndBody_360x.jpg?v=1666120476",
+      "price": 375.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 11,
+      "title": "Desodorante Suave de Aloe Roll-On",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_desodoranteAloe_50ml_Skincare_360x.jpg?v=1668059351",
+      "price": 125.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 12,
+      "title": "Loción Corporal Flora Almizcle Blanco 250 ml",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_LocionCorporalWhiteMuskFlora_250ml_Fragancias_360x.jpg?v=1672098516",
+      "price": 315.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 13,
+      "title": "Loción Corporal Olive",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Locion_Corporal_Olive_360x.jpg?v=1679002601",
+      "price": 285.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 14,
+      "title": "Gel de Ducha White Musk® Flora",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Geldeducha_White-Musk_flora_360x.jpg?v=1677223197",
+      "price": 255.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 15,
+      "title": "Gel de Ducha White Musk Sport",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_JabonParaCabelloyCuerpoWhiteMuskSport_200ml_Fragancias_360x.jpg?v=1679937815",
+      "price": 255.00,
+      "review": "5",
+      "category": "cuerpo"
+    },
+    {
+      "id": 16,
+      "title": "Jabon en Barra de British Rose",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_JabonBritishRose_100g_BathAndBody_360x.jpg?v=1671840572",
+      "price": 105.00,
+      "review": "5",
+      "category": "cuerpo"  },
+  
+    {
+      "id": 17,
+      "title": "Mist Japanese Cherry Blossom Strawberry Kiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/JAPANESE_CHERRY_BLOSSOM_STRAWBERRY_KISS_FRAGRANCE_MIST_100ML_1_INRSAPS251_360x.jpg?v=1628729763",
+      "price": 345.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 18,
+      "title": "Eau de Toilette White Musk® para Hombre",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_EauDeToilleteWhiteMuskForMen_100ml_Fragancias_360x.jpg?v=1667512345",
+      "price": 575.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 19,
+      "title": "Hair & Body Mist de Coco y Yuzu",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Hair_Body_Mist_de_Coco_y_Yuzu_360x.jpg?v=1678944651",
+      "price": 355.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 20,
+      "title": "Aceite Esencial Eucalipto & Romero",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_AceiteEsencialEucaliptoyRomero_20ml_Wellness_360x.jpg?v=1666971456",
+      "price": 485.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 21,
+      "title": "Aceite Esencial Lavanda & Vetiver",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_AceiteEsencialLavandayVetiver_20ml_Wellness_360x.jpg?v=1666971895",
+      "price": 485.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 22,
+      "title": "Eau De Toilette White Musk® Flora",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_EauDeToilleteWhiteMuskFlora_60ml_Fragancias_d1e8445e-2253-4747-a991-dcbd45219be0_360x.jpg?v=1668550394",
+      "price": 325.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 23,
+      "title": "Perfume Sólido de Coco y Yuzu",
+    "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_PerfumeSolidoCocoyYuzu_4_5g_fragancias_360x.jpg?v=1668472927",
+      "price": 215.00,
+      "review": "5",
+      "category": "fragancias"
+    },
+    {
+      "id": 24,
+      "title": "Perfume Sólido de Durazno y Agave",
+    "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_PerfumeSolidoDuraznoyAgave_4_5g_Fragancias_360x.jpg?v=1668472487",
+      "price": 215.00,
+      "review": "5",
+      "category": "fragancias"  },
+    {
+      "id": 25,
+      "title": "Sérum Concentrado Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/serumconcentrate30ml_360x.png?v=1662479563",
+      "price": 745.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 26,
+      "title": "Concentrado de Ojos Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/eyeserumconcentrate_360x.png?v=1662479733",
+      "price": 635.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 27,
+      "title": "Crema Intensa de Día Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CremaIntensivaDeDiaEdelweiss_50ml_Skincare_360x.jpg?v=1667291554",
+      "price": 605.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 28,
+      "title": "Limpiador Concentrado Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/cleansingconcetrate_360x.png?v=1662481135",
+      "price": 310.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 29,
+      "title": "Peeling Líquido Edelweiss",
+    "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/liquidpeel_360x.png?v=1662480406",
+      "price": 495.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 30,
+      "title": "Mist Hidratante Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/bouncyjellymist_360x.png?v=1662481020",
+      "price": 405.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 31,
+      "title": "Sheet Mask Concentrado Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/sheetmask_360x.png?v=1662481259",
+      "price": 130.00,
+      "review": "5",
+      "category": "lineas"
+    },
+    {
+      "id": 32,
+      "title": "Mascarilla para Ojos Edelweiss",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_MascarillaParaOjosEdelweiss_20ml_Skincare_360x.jpg?v=1679964010",
+      "price": 595.00,
+      "review": "5",
+      "category": "lineas"},
+    {
+      "id": 33,
+      "title": "Crema de Manos Almendra",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CremaParaManosLecheDeAlmendras_100ml_BathAndBody_360x.jpg?v=1667271929",
+      "price": 355.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 34,
+      "title": "Crema de manos de Leche de Almendras",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_Leche_de_Almendras_30_ml_360x.jpg?v=1678675260",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 35,
+      "title": "Crema de Manos Coco",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_Coco_30_ml_360x.jpg?v=1678666588",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 36,
+      "title": "Crema de Manos de Toronja",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_de_Toronja_360x.jpg?v=1678666608",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 37,
+      "title": "Crema de Manos Satsuma 30ml",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_Satsuma_30_ml_360x.jpg?v=1678679429",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 38,
+      "title": "Crema de Manos de Mango",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_de_Mango_360x.jpg?v=1678664814",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 39,
+      "title": "Crema de Manos British Rose",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Crema_de_Manos_British_Rose_30_ml_360x.jpg?v=1678661780",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"
+    },
+    {
+      "id": 40,
+      "title": "Crema de manos almendras 30ml",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CremaParaManosLecheDeAlmendras_50ml_BathAndBody_360x.jpg?v=1667272129",
+      "price": 175.00,
+      "review": "5",
+      "category": "manos"  },
+  
+    {
+      "id": 41,
+      "title": "Gel Calmante Contorno de Ojos y Labios de Aloe",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Gel_CalmanteContorno_de_Ojos_y_Labios_de_Aloe_360x.png?v=1678942299",
+      "price": 365.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 42,
+      "title": "Instablur™ Primer",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Instablur_Primer_32dcf1a2-5358-4881-b9b7-1ccc8f639f0f_360x.jpg?v=1678993221",
+      "price": 395.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 43,
+      "title": "Happy Go Lash Mascara",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/HAPPY_GO_LASH_MASCARA_9ML_1_INRSAPS193_360x.png?v=1619672247",
+      "price": 315.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 44,
+      "title": "Fresh Nude BB Cream 02 Medium",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/FRESH_NUDE_TINTED_BEAUTY_BALM_SPF30_PA_MEDIUM_FAIR_02_25ML_1_INRSAPS270_360x.png?v=1619671883",
+      "price": 385.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 45,
+      "title": "Esponja Beauty Blender",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_EsponjaBeautyBlender_MakeUp_360x.jpg?v=1667837571",
+      "price": 175.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 46,
+      "title": "Bálsamo Labial de Leche de Almendras",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_StickLabialLecheDeAlmendras_4_2g_MakeUp_360x.jpg?v=1666119482",
+      "price": 145.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 47,
+      "title": "BROCHA BUFFING A0",
+      "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_BrochaBuffing_MakeUp_360x.jpg?v=1667252911",
+      "price": 425.00,
+      "review": "5",
+      "category": "maquillaje"
+    },
+    {
+      "id": 48,
+      "title": "Pincel de doble punta para sombras de ojos",
+    "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CepilloParaSombraDeOjosPuntaDoble_MakeUp_360x.jpg?v=1667963365",
+      "price": 295.00,
+      "review": "5",
+      "category": "maquillaje"  },
+  
+      {
+        "id": 49,
+        "title": "Estuche de Regalo de Fresa",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_BeautyBagFresa_Gift_360x.jpg?v=1667187804",
+        "price": 365.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 50,
+        "title": "Regalo Deluxe British Rose",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_RegaloDeluxBritishRose_Gift_360x.jpg?v=1667435713",
+        "price": 1950.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 51,
+        "title": "Caja de regalo grande Black Musk Nigth Bloom",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_RegaloDeluxBlackMusk_Gift_360x.jpg?v=1667292483",
+        "price": 1015.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 52,
+        "title": "Trio de Mini Body Butter",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/1017206_GIFT_BODY_BUTTER_TRIO_AYR22_BRONZE_INABUPS107_360x.jpg?v=1651799792",
+        "price": 395.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 53,
+        "title": "Regalo de Cuidado Facial de Zanahoria",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/1089723_360x.png?v=1628729784",
+        "price": 945.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 54,
+        "title": "Kit Removedor de Maquillaje de Manzanilla",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_KitDeLimpiezaManzanilla_Gift_360x.jpg?v=1667253692",
+        "price": 860.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 55,
+        "title": "Estuche de Regalo de Aguacate",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CosmetiqueraNourishingAYR22_Gift_360x.jpg?v=1668889289",
+        "price": 365.00,
+        "review": "5",
+        "category": "regalos"
+      },
+      {
+        "id": 56,
+        "title": "Regalo Mediano de Karité",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/1097770_G3MEDIUMSHEAAYR21A0X_BRNZ_INECMPS622_360x.jpg?v=1628729792",
+        "price": 970.00,
+        "review": "5",
+        "category": "regalos"    },
+    
+      {
+        "id": 57,
+        "title": "Gel Anti Imperfecciones Tea Tree",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Gel_Anti_Imperfecciones_Tea_Tree_540x.jpg?v=1678941011",
+        "price": 235.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 58,
+        "title": "Mascarilla Nocturna Tea Tree",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/1075434_1_OVERNIGHTMASKTEATREE75MLA0X_BRNZ_INNPDPS494_540x.jpg?v=1628729756",
+        "price": 485.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 59,
+        "title": "Exfoliante Facial Limpiador Algas",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Exfoliante_Facial_Limpiador_Algas_540x.jpg?v=1678937957",
+        "price": 335.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 60,
+        "title": "Crema Hidratante Intensiva Vitamina E",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_CremaHidratanteIntensivaVitaminaE_50ml_Skincare_540x.jpg?v=1667291264",
+        "price": 485.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 61,
+        "title": "Espuma Limpiadora Purificante Tea Tr",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_EspumaLimpiadoraPurificanteTeaTree_150ml_Skincare_540x.jpg?v=1667841834",
+        "price": 335.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 62,
+        "title": "Aceite Facial Intensamente Revitalizante Oils of Life™ 50ml",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_AceiteFacialOilsOfLife_50ml_Skincare_540x.jpg?v=1666972757",
+        "price": 10550.000,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 63,
+        "title": "Sérum Reafirmante Roots Of Strength™",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/1054878_1_SERUM_ROS_30M_A0X_BRNZ_INNEDPS001_540x.jpg?v=1628729811",
+        "price": 815.00,
+        "review": "5",
+        "category": "rostro"
+      },
+      {
+        "id": 64,
+        "title": "Mascarilla Calmante Leche de Almendras y Avena",
+        "url": "https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_MascarillaFacialLecheDeAlmendrasyAvena_75ml_Skincare_540x.jpg?v=1680022704",
+        "price": 655.00,
+        "review": "5",
+        "category": "rostro"    }
+  ]
+}

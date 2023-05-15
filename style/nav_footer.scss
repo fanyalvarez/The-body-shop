@@ -1,0 +1,60 @@
+nav {
+    background: url(/img/bg-nav.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3% 5%;
+  
+    img {
+      width: 8rem;
+      background: transparent;
+    }
+    .nav-item a {
+      text-decoration: none;
+      font-size: 20px;
+      color: azure;
+    }
+    .nav-item a:hover {
+      color: green;
+      background-color: azure;
+    }
+    .dropdown-menu {
+      text-decoration: none;
+      color: green;
+      background-color: #175252;
+    }
+    .icons {
+      font-size: 25px;
+      color: azure;
+      i {
+        margin-left: 15px;
+      }
+    }
+  }
+
+footer {
+    background:url(/img/bg-footer.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+    font-weight: 400;
+    font-size: 17px;
+  
+    .info {
+      margin-top: 3em;
+      margin-left: 5em;
+  
+      a {
+        color: azure;
+      }
+      a:hover {
+        color: #175252;
+        background-color: azure;
+      }
+    }
+  
+    img {
+      width: 16em;
+    }
+  }
+ 
+ 

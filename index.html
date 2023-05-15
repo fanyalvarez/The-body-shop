@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="images/favicon-32x32.png" type="image/png" />
+  <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="/style.css" />
+  <title>The body shop</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <!-- ====== Nav ====== -->
+  <nav class="d-flex justify-content-between align-items-center">
+    <img src="/img/logo.png" alt="">
+    <ul class="nav nav-underline">
+      <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="#">HOME</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">PRODUCTOS</a>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">CABELLO</a></li>
+          <li><a class="dropdown-item" href="#">CUERPO</a></li>
+          <li><a class="dropdown-item" href="#">FRAGANCIAS</a></li>
+          <li><a class="dropdown-item" href="#">LINEAS</a></li>
+          <li><a class="dropdown-item" href="#">MANOS</a></li>
+          <li><a class="dropdown-item" href="#">MAQUILLAJE</a></li>
+          <li><a class="dropdown-item" href="#">REGALOS</a></li>
+          <li><a class="dropdown-item" href="#">ROSTRO</a></li>
+        </ul>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CONOCENOS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CONTACTO</a>
+      </li>
+    </ul>
+    <div class="icons">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <i class="fa-solid fa-user"></i>
+      <i class="fa-solid fa-cart-shopping"></i>
+    </div>
+  </nav>
+
+  <!-- ====== Main ====== -->
+  <main>
+    <!-- ====== home ====== -->
+    <section id="home">
+      <img
+        src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/3X2_EN_TODA_LA_TIENDA_1_AL_21_MAYO_BANNER_WEB.png?v=1682910914"
+        alt="">
+    </section>
+
+    <!-- ====== home-slide ====== -->
+    <section id="home-slide">
+      <!-- data-bs-ride="carousel" -->
+      <div id="carouselExampleIndicators" class="carousel carousel-dark slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+            aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+            aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="cards-wrapper">
+              <div class="card card-size">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Skinboost_vitaminaC_540x.jpg?v=1677086706"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Skin Boost Vitamina C</p>
+                  <p class="card-text">$ 495.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/serumconcentrate30ml_360x.png?v=1662479563"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Sérum Concentrado Edelweiss</p>
+                  <p class="card-text">$ 745.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/liquidpeel_360x.png?v=1662480406"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Peeling Líquido Edelweiss</p>
+                  <p class="card-text">$ 495.00</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Body_Butter_Satsuma_50_ml_360x.jpg?v=1679110780"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Body Butter Satsuma</p>
+                  <p class="card-text">$ 145.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/TBS_AceiteFacialOilsOfLife_50ml_Skincare_360x.jpg?v=1666972757"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Aceite Facial Oils of Life™ 50ml</p>
+                  <p class="card-text">$ 1,055.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Body_Butter_de_Karite_50_ml_360x.jpg?v=1679110634"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Body Butter Karité</p>
+                  <p class="card-text">$ 145.00</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Aceite_de_Tea_Tree_10_ml_360x.jpg?v=1678996721"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Aceite de Tea Tree</p>
+                  <p class="card-text">$ 235.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Manteca_Limpiadora_de_Manzanilla_76_gr_360x.jpg?v=1678831060"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Limpiador de Manzanilla</p>
+                  <p class="card-text">De $ 105.00</p>
+                </div>
+              </div>
+              <div class="card">
+                <img
+                  src="https://cdn.shopify.com/s/files/1/0293/9240/4554/products/Gel_de_ducha_de_Toronja_Rosa_60_ml_360x.jpg?v=1678688745"
+                  class="card-img-top" alt="">
+                <div class="card-body">
+                  <p class="card-text">Gel de ducha de Toronja Rosa</p>
+                  <p class="card-text">De $ 115.00</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+    </section>
+
+    <!-- ====== home-see ====== -->
+    <section id="allProducts">
+      <p>Ver todos nuestros productos disponibles</p>
+      <a href="#menu" class="btn btn-primary">Ver</a>
+    </section>
+
+    <!-- ====== home-mission ====== -->
+    <section id="home-mission">
+      <div class="homeMis-img">
+        <img
+          src="https://www.nume-lab.com/wp-content/uploads/2021/09/No-Animal-testing-NUMELAB-Switzerland-scaled-e1632287364645.jpeg"
+          alt="">
+      </div>
+      <div class="homeMis-text">
+        <p>Llevamos luchando por una industria cosmética sin crueldad en animales desde 1989. Primero contribuimos a que
+          se prohibiese la experimentación con animales en el Reino Unido.</p>
+        <br>
+        <p>Ahora, llevaremos nuestra petición a las Naciones Unidas para que esta crear práctica desaparezca de una vez
+          por todas en todo el mundo y para siempre.</p>
+        <button class="position-absolute bottom-0 start-50 translate-middle-x">Informate</button>
+      </div>
+    </section>
+
+    <!-- ====== home-products-menu ====== -->
+    <a name="menu"></a>
+    <section id="products-menu">
+      <div class="container d-flex flex-wrap">
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/BANANA_TRULY_NOURISHING_HAIR_MASK_240ML_8_INRSLPS049_540x.png?v=1624996932"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="cabello">cabello</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/COCONUT_NOURISHING_BODY_BUTTER_200ML_7_INRSLPS023_540x.jpg?v=1624480835"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="cuerpo">cuerpo</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/Captura_de_Pantalla_2021-05-21_a_la_s_0.02.56_540x.png?v=1624507989"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="fragancias">fragancias</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/TBS_Edelweiss_HomeHero_540x.png?v=1663089151"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="lineas">lineas</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://graziamagazine.com/es/wp-content/uploads/sites/12/2020/01/GRAZIA-tres-cremas-mano-invierno.jpeg"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="manos">manos</div>
+
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/MATTE_CLAY_SKIN_CLARIFYING_FOUNDATION_042_30ML_8_INRSDPS570_540x.png?v=1628137889"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="maquillaje">maquillaje</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img
+            src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/1097760_G2_SMALL_BRITISH_ROSE_AYR21_A0X_SILV_INECMPS247_540x.jpg?v=1628136967"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="regalos">regalos</div>
+          </div>
+        </div>
+        <div class="card" style="width: 15rem;">
+          <img src="https://cdn.shopify.com/s/files/1/0293/9240/4554/files/HIDRATANTES_540x.png?v=1624398171"
+            class="card-img-top" alt="">
+          <div class="card-body">
+            <div class="btn-filter" data-filter="rostro">rostro</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====== home-ollection ====== -->
+    <section id="collection">
+      <div class="products container">
+        <div class="swiper mySwiper">
+          <div class="swiper-wrapper" id="products">
+            <!-- <div class="swiper-slide">
+            <div class="product">
+              <div class="top">
+                <img src="./images/product-1.png" alt="" />
+                <div class="icon">
+                  <i class="bx bxs-heart"></i>
+                </div>
+              </div>
+              <div class="bottom">
+                <h4>Nike Air Men’s Hoodie - Imported Hoodie Red</h4>
+                <div class="flex-price">
+                  <div class="price">$150</div>
+                  <div class="rating">
+                    <i class="bx bxs-star"></i>
+                    <i class="bx bxs-star"></i>
+                    <i class="bx bxs-star"></i>
+                    <i class="bx bxs-star"></i>
+                    <i class="bx bxs-star"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> -->
+          </div>
+        </div>
+        <div class="pagination">
+          <div class="custom-pagination"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====== home-testim ====== -->
+    <section id="home-testim">
+      <div class="homeTest-text">
+        <p>"Creo firmemente que una empresa puede ser divertida, se puede llevar con amor y puede tener un
+          impacto positivo en el mundo de la sociedad" Anita Roddick, Fundadora de The Body Shop</p>
+        <button class="position-absolute bottom-0 start-50 translate-middle-x">Conocenos</button>
+      </div>
+      <div class="homeTest-img">
+        <img src="/img/homeAna.jpg" alt="" srcset="">
+      </div>
+    </section>
+  </main>
+
+  <!-- ====== footer ====== -->
+  <footer class="d-flex flex-column justify-content-center py-5">
+
+    <div class="footer-info d-flex justify-content-center">
+      <img src="/img/logo.png" alt="">
+      <div class="info d-flex justify-content-around">
+
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">PRODUCTOS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">NOSOTROS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">BLOG</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">CONTACTO</a>
+          </li>
+        </ul>
+        <ul class="nav flex-column mx-5">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">SUCURSALES</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">TERMINOS Y CONDICIONES</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">POLITICAS DE PRIVACIDAD</a>
+          </li>
+        </ul>
+        <div class="info-contact">
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">CONVERSEMOS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">LUNES A VIERNES <br> DE 10:00 A 18:00</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="fa-solid fa-phone"></i> +55 12345678 </a>
+            </li>
+          </ul>
+          <div class="icons d-flex justify-content-around mt-3">
+            <i class="fa-brands fa-facebook-f"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copy d-flex justify-content-center align-items-center mt-5">
+      <i class="fa-regular fa-copyright me-3"></i>
+      <p class="m-0">2021 The Body Shop | Todos los Derechos Reservados</p>
+    </div>
+
+  </footer>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="./js/product.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+    crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/3811f3cc1e.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

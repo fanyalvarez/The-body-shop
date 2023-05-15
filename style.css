@@ -1,0 +1,141 @@
+@import url("/style/nav_footer.css");
+@import url("/style/cards.css");
+.body {
+  background-color: rgb(189, 195, 195);
+}
+
+#home img {
+  width: 100%;
+}
+
+#home-slide {
+  margin: 5%;
+  font-size: 20px;
+}
+#home-slide .carousel-inner {
+  padding: 3rem;
+}
+#home-slide .cards-wrapper {
+  display: flex;
+  align-items: center;
+}
+#home-slide .cards-wrapper .card {
+  margin: 0 auto;
+  width: 20%;
+  text-align: center;
+  border: none;
+  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+}
+#home-slide .carousel-control-prev,
+#home-slide .carousel-control-next {
+  width: 6vh;
+  height: 6vh;
+  background-color: rgb(244, 231, 215);
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#home-slide .carousel-control-prev span,
+#home-slide .carousel-control-next span {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+#home-products {
+  margin: 5%;
+  margin-bottom: 0;
+}
+#home-products .row .card {
+  border: none;
+}
+#home-products .row .card p {
+  color: #175252;
+  font-weight: 600;
+}
+#home-products .row .card img {
+  width: 80%;
+  height: 200px;
+  border-radius: 5%;
+}
+
+#allProducts {
+  height: 100px;
+  background-color: #eac556;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#allProducts p {
+  font-size: 22px;
+  color: #175252;
+}
+#allProducts a {
+  background-color: #175252;
+  border: none;
+  padding: 2px 20px;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+#home-mission {
+  width: 100%;
+  padding: 0 10%;
+  margin: 5% 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+#home-mission .homeMis-img img {
+  width: 450px;
+  height: 450px;
+}
+#home-mission .homeMis-text {
+  width: 500px;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  padding: 30px 0;
+}
+#home-mission button {
+  margin-bottom: 10%;
+  color: #175252;
+  background-color: transparent;
+  border: solid 2px #175252;
+  border-radius: 5%;
+}
+#home-mission button:hover {
+  background-color: #175252;
+  color: azure;
+}
+
+#home-testim {
+  width: 100%;
+  padding: 5% 15%;
+  margin: 3% 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#home-testim .homeTest-img img {
+  width: 450px;
+  height: 450px;
+}
+#home-testim .homeTest-text {
+  width: 330px;
+  height: 350px;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+}
+#home-testim button {
+  margin-bottom: 10%;
+  color: #175252;
+  background-color: transparent;
+  border: solid 2px #175252;
+  border-radius: 5%;
+}
+#home-testim button:hover {
+  background-color: #175252;
+  color: azure;
+}/*# sourceMappingURL=style.css.map */

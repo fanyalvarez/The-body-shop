@@ -5,7 +5,7 @@
   width: 80%;
 }
 #products-menu .container {
-  width: 73%;
+  justify-content: center;
 }
 #products-menu .container .card {
   border: none;

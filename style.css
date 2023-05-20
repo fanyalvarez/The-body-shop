@@ -85,6 +85,7 @@
   margin: 5% 0;
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 #home-mission .homeMis-img img {
   width: 450px;
@@ -98,7 +99,7 @@
   padding: 30px 0;
 }
 #home-mission button {
-  margin-bottom: 10%;
+  margin: 10% 0 5%;
   color: #175252;
   background-color: transparent;
   border: solid 2px #175252;
@@ -116,6 +117,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  flex-wrap: wrap;
 }
 #home-testim .homeTest-img img {
   width: 450px;
@@ -129,7 +131,7 @@
   position: relative;
 }
 #home-testim button {
-  margin-bottom: 10%;
+  margin: 10% 0 5%;
   color: #175252;
   background-color: transparent;
   border: solid 2px #175252;

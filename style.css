@@ -99,7 +99,7 @@
   padding: 30px 0;
 }
 #home-mission button {
-  margin: 10% 0 5%;
+  margin: 10% 0;
   color: #175252;
   background-color: transparent;
   border: solid 2px #175252;
@@ -131,7 +131,7 @@
   position: relative;
 }
 #home-testim button {
-  margin: 10% 0 5%;
+  margin: 10% 0;
   color: #175252;
   background-color: transparent;
   border: solid 2px #175252;
